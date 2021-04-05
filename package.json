@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://domihorinka.github.io/DH-Potfolio_react",
+  "homepage": "https://domihorinka.github.io/React-Portfolio",
   "eslintConfig": {
     "extends": "react-app"
   },
