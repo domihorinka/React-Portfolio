@@ -18,14 +18,14 @@ let resumeData = {
         }
 
       ],
-    "aboutme":"I recently graduated from the University of Denver's Full Stack Flex coding boot camp.  I have a passion for learning and solving complex issues.  Coding has given me an outlet to practice both.",
+    "aboutme":"I recently graduated from the University of Denver's Full Stack Coding Bootcamp.  I have a passion for learning and solving complex issues.  Coding has given me an outlet to practice both.",
     "address":"Denver, CO",
     "cell": "(908)635-8964",
     "website":"domihorinka@gmail.com",
     "education":[
       {
         "UniversityName":"University of Denver Coding Bootcamp",
-        "specialization":"Full Stack Flex Web Development",
+        "specialization":"Full Stack Web Development",
         "MonthOfPassing":"April",
         "YearOfPassing":"2021",
         "Achievements":"Completed the full-time program that covered full stack, including HTML5, CSS3, JavaScript, jQuery, Node.js, Express.js, React.js, Database Theory, MongoDB, MySQL, Command Line, Git, and more."
@@ -44,7 +44,7 @@ let resumeData = {
         "specialization":"Business Operator",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2020",
-        "Achievements":"Sole owner and organizer of business operations, coordinating and scheduling, handling financial aspect, and assuming responsibility of client's pets and sometimes homes."
+        "Achievements":"Lead a business that received an average rating of 4.96 out of 5 from 100s of clients and customers. Utilized customer service, financial, and marketing skills to become one of the highest rated independent dog walkers in Denver which led to an increase in revenue."
       },
       {
         "CompanyName":"Teakoe Tea",
