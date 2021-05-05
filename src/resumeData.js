@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":" https://github.com/domihorinka",
     "name": "Dominique Horinka",
-    "role": "Junior Web Developer",
+    "role": "Full Stack Web Developer",
     "linkedinId":"https://www.linkedin.com/in/dominique-horinka/",
     "skypeid": "",
     "roleDescription": " I love the challenge of coding.  I have an absolute thirst for gaining knowledge on all things web development.  I hope to continue to enrich my knowledge gained from past endeavors through future work experience. ",
@@ -18,7 +18,7 @@ let resumeData = {
         }
 
       ],
-    "aboutme":"I recently graduated from the University of Denver's Full Stack Coding Bootcamp.  I have a passion for learning and solving complex issues.  Coding has given me an outlet to practice both.",
+    "aboutme":"Full Stack Web Developer with a Certificate from The University of Denver Coding Bootcamp.  An effective team player that exceeds client and customer expectations in performance based environments. HTML, CSS, Bootstrap, JavaScript, jQuery, JSON, Node.js, MySQL, MSSQL, Mongodb, Handlebars.  A lifetime learner. ",
     "address":"Denver, CO",
     "cell": "(908)635-8964",
     "website":"domihorinka@gmail.com",
@@ -43,7 +43,7 @@ let resumeData = {
         "CompanyName":"Domi's Dogs",
         "specialization":"Business Operator",
         "MonthOfLeaving":"December",
-        "YearOfLeaving":"2020",
+        "YearOfLeaving":"current",
         "Achievements":"Lead a business that received an average rating of 4.96 out of 5 from 100s of clients and customers. Utilized customer service, financial, and marketing skills to become one of the highest rated independent dog walkers in Denver which led to an increase in revenue."
       },
       {
@@ -51,7 +51,7 @@ let resumeData = {
         "specialization":"Brand Ambassador/Sales",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2018",
-        "Achievements":"Built and kept a positive relationship with clients, introduced product into new stores, conducted market research by identifying emerging store trends, and kept management informed by submitting activity and results reports. "
+        "Achievements":"Prepared weekly sales reports, presented findings in team meetings to inform business decisions, resulting in new marketing strategy. Collaborated with a group of 4 to provide high-quality customer service.Established and maintained positive relationships with clients and customers by answering their questions and explaining the product details, resulting in an increase in sales."
       }
     ],
     "portfolio":[
